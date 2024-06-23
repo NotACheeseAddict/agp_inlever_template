@@ -1,18 +1,18 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [The rift guardian]
+Project team:[Devils luck]
 
 Platform:
-[jullie platfom]
+[Unreal Engine]
 
 ### Korte omschrijving van de game
-...
+The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemies in waves moet vermoorden om nieuwe items in de shop te kunnen kopen. Schuil achter obstakels en shiet Enemies. Let goed op want anders ben je snel dood
 
 ---
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
-| Logboek (pdf)                             | [Logboek]
+| Link naar online product backlog (Trello) | [Backlog] <https://unreal-academy.codecks.io/decks/109-product-backlog>
+| Logboek (pdf)                             | [Logboek] <>
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
